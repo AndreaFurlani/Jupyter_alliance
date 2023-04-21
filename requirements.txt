@@ -1,0 +1,14 @@
+mygene
+base64
+requests
+urllib3>=1.26.6
+numpy>=1.21.6
+pandas>=1.3.5
+ipywidgets>=7.7.1
+import_ipynb>=0.1.4
+bokeh>=2.4.3
+hublib.ui
+biopython>=1.79
+cryptography==36.0.2
+termcolor>=2.2.0
+voila
